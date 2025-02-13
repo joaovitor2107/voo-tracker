@@ -1,4 +1,4 @@
-Flight Price Tracker
+Voo Tracker
 Um programa para calcular preços médios de passagens aéreas para auxiliar no planejamento de viagens.
 📋 Como Usar
 Execute o programa e escolha entre:
