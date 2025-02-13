@@ -1,0 +1,3 @@
+config/*
+config/config.py
+config/credentials.json
